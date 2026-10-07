@@ -1,0 +1,508 @@
+id_colaborador,area,cargo,antiguedad_meses,prob_renuncia_12m,costo_reemplazo_bs,costo_esperado_bs,factor_principal
+C0652,Logística y Distribución,Jefe de logística,18.7,0.165,74208.0,12236.0,Ausencias altas
+C0821,Logística y Distribución,Auxiliar de almacén,1.0,0.845,10305.0,8706.0,Ausencias altas
+C0773,Producción,Operario de línea,5.6,0.868,9729.0,8449.0,Ausencias altas
+C0617,Producción,Ingeniero de procesos,21.6,0.111,67319.0,7488.0,Sueldo bajo dentro de su banda
+C0418,Mantenimiento,Técnico eléctrico,47.6,0.293,25280.0,7395.0,Muchas horas extra
+C0800,Producción,Auxiliar de producción,3.3,0.792,8868.0,7020.0,Sueldo bajo dentro de su banda
+C0777,Mantenimiento,Técnico mecánico,5.3,0.273,25035.0,6842.0,Antigüedad < 6 meses
+C0812,Logística y Distribución,Ayudante de reparto,2.5,0.65,10305.0,6694.0,Antigüedad < 6 meses
+C0802,Logística y Distribución,Ayudante de reparto,3.2,0.751,8868.0,6660.0,Sueldo bajo dentro de su banda
+C0805,Logística y Distribución,Chofer repartidor,3.0,0.674,9826.0,6620.0,Antigüedad < 6 meses
+C0319,Mantenimiento,Técnico eléctrico,62.9,0.247,26014.0,6421.0,Ausencias altas
+C0828,Producción,Operador de llenadora,0.6,0.649,9538.0,6189.0,Sueldo bajo dentro de su banda
+C0815,Ventas,Mercaderista,2.0,0.637,9538.0,6071.0,Sueldo bajo dentro de su banda
+C0732,Ventas,Mercaderista,10.2,0.622,9538.0,5931.0,Sueldo bajo dentro de su banda
+C0713,Producción,Auxiliar de producción,11.8,0.527,10305.0,5428.0,Antigüedad 6 a 12 meses
+C0383,Mantenimiento,Técnico eléctrico,52.8,0.229,23076.0,5290.0,Sueldo bajo dentro de su banda
+C0772,Logística y Distribución,Chofer repartidor,5.7,0.546,9538.0,5208.0,Sueldo bajo dentro de su banda
+C0811,Ventas,Mercaderista,2.6,0.555,9346.0,5189.0,Sueldo bajo dentro de su banda
+C0330,Logística y Distribución,Chofer repartidor,61.6,0.484,10688.0,5171.0,Ausencias altas
+C0823,Producción,Operario de línea,0.9,0.55,9154.0,5034.0,Sueldo bajo dentro de su banda
+C0310,Producción,Operador de llenadora,64.3,0.498,10018.0,4990.0,Sueldo bajo dentro de su banda
+C0712,Producción,Operador de llenadora,11.8,0.503,9826.0,4941.0,Antigüedad 6 a 12 meses
+C0634,Producción,Auxiliar de producción,20.5,0.444,10880.0,4827.0,Ausencias altas
+C0764,Producción,Operario de línea,6.7,0.454,10593.0,4807.0,Muchas horas extra
+C0708,Ventas,Mercaderista,12.1,0.474,10113.0,4790.0,Antigüedad 1 a 2 años
+C0776,Ventas,Preventista,5.5,0.473,10113.0,4787.0,Antigüedad < 6 meses
+C0627,Logística y Distribución,Ayudante de reparto,21.1,0.413,11166.0,4615.0,Ausencias altas
+C0307,Ventas,Analista comercial,64.7,0.07,63874.0,4491.0,Sueldo bajo dentro de su banda
+C0795,Producción,Operador de llenadora,3.7,0.409,10688.0,4367.0,Ausencias altas
+C0520,Producción,Supervisor de turno,32.2,0.188,23076.0,4329.0,Sueldo bajo dentro de su banda
+C0825,Ventas,Preventista,0.9,0.401,10785.0,4321.0,Antigüedad < 6 meses
+C0763,Producción,Operador de llenadora,6.9,0.441,9729.0,4295.0,Sueldo bajo dentro de su banda
+C0509,Producción,Supervisor de turno,33.7,0.164,26014.0,4255.0,Ausencias altas
+C0740,Producción,Operario de línea,9.5,0.423,10018.0,4239.0,Antigüedad 6 a 12 meses
+C0808,Logística y Distribución,Chofer repartidor,2.7,0.416,10113.0,4208.0,Antigüedad < 6 meses
+C0588,Ventas,Supervisor de ventas,23.6,0.171,24543.0,4203.0,Sueldo bajo dentro de su banda
+C0754,Producción,Auxiliar de producción,8.4,0.396,10402.0,4118.0,Antigüedad 6 a 12 meses
+C0753,Producción,Operario de línea,8.4,0.436,9443.0,4116.0,Sueldo bajo dentro de su banda
+C0719,Logística y Distribución,Ayudante de reparto,11.3,0.405,10113.0,4091.0,Antigüedad 6 a 12 meses
+C0609,Producción,Operario de línea,22.4,0.413,9729.0,4019.0,Sueldo bajo dentro de su banda
+C0768,Logística y Distribución,Ayudante de reparto,5.8,0.363,10977.0,3985.0,Antigüedad < 6 meses
+C0755,Ventas,Supervisor de ventas,8.1,0.141,27729.0,3920.0,Antigüedad 6 a 12 meses
+C0603,Producción,Jefe de producción,22.7,0.051,76276.0,3889.0,Antigüedad 1 a 2 años
+C0676,Producción,Operador de llenadora,15.4,0.437,8868.0,3876.0,Sueldo bajo dentro de su banda
+C0573,Logística y Distribución,Auxiliar de almacén,25.8,0.423,9154.0,3871.0,Sueldo bajo dentro de su banda
+C0711,Mantenimiento,Técnico eléctrico,11.8,0.143,26995.0,3868.0,Antigüedad 6 a 12 meses
+C0129,Producción,Auxiliar de producción,148.3,0.357,10785.0,3854.0,Muchas horas extra
+C0600,Ventas,Mercaderista,23.1,0.365,10496.0,3836.0,Antigüedad 1 a 2 años
+C0664,Logística y Distribución,Ayudante de reparto,17.3,0.333,11455.0,3816.0,Antigüedad 1 a 2 años
+C0566,Logística y Distribución,Ayudante de reparto,26.5,0.405,9251.0,3747.0,Sueldo bajo dentro de su banda
+C0791,Logística y Distribución,Ayudante de reparto,4.2,0.336,11071.0,3723.0,Antigüedad < 6 meses
+C0722,Ventas,Preventista,11.1,0.371,10018.0,3715.0,Antigüedad 6 a 12 meses
+C0706,Producción,Operario de línea,12.2,0.377,9826.0,3706.0,Sueldo bajo dentro de su banda
+C0699,Producción,Operario de línea,13.1,0.362,10113.0,3657.0,Antigüedad 1 a 2 años
+C0743,Producción,Auxiliar de producción,9.2,0.326,11166.0,3644.0,Antigüedad 6 a 12 meses
+C0707,Producción,Operario de línea,12.1,0.363,9921.0,3601.0,Sueldo bajo dentro de su banda
+C0604,Logística y Distribución,Ayudante de reparto,22.6,0.319,11166.0,3563.0,Antigüedad 1 a 2 años
+C0689,Logística y Distribución,Ayudante de reparto,13.8,0.327,10880.0,3558.0,Antigüedad 1 a 2 años
+C0744,Logística y Distribución,Chofer repartidor,9.2,0.334,10593.0,3538.0,Antigüedad 6 a 12 meses
+C0710,Logística y Distribución,Supervisor de distribución,11.9,0.113,30911.0,3480.0,Antigüedad 6 a 12 meses
+C0649,Producción,Operador de llenadora,18.9,0.384,9060.0,3475.0,Sueldo bajo dentro de su banda
+C0745,Producción,Operador de llenadora,9.2,0.306,11166.0,3421.0,Antigüedad 6 a 12 meses
+C0733,Logística y Distribución,Auxiliar de almacén,10.2,0.305,11071.0,3380.0,Antigüedad 6 a 12 meses
+C0594,Producción,Operario de línea,23.3,0.325,10402.0,3377.0,Antigüedad 1 a 2 años
+C0818,Logística y Distribución,Ayudante de reparto,1.2,0.324,10305.0,3340.0,Antigüedad < 6 meses
+C0595,Producción,Operador de llenadora,23.3,0.301,10688.0,3220.0,Antigüedad 1 a 2 años
+C0813,Logística y Distribución,Auxiliar de almacén,2.5,0.293,10977.0,3214.0,Antigüedad < 6 meses
+C0759,Mantenimiento,Ayudante de mantenimiento,7.4,0.306,10496.0,3213.0,Antigüedad 6 a 12 meses
+C0112,Mantenimiento,Técnico mecánico,157.8,0.132,24298.0,3204.0,Sueldo bajo dentro de su banda
+C0644,Producción,Operador de llenadora,19.3,0.299,10688.0,3198.0,Muchas horas extra
+C0339,Producción,Operario de línea,60.1,0.332,9635.0,3197.0,Sueldo bajo dentro de su banda
+C0816,Ventas,Mercaderista,1.9,0.303,10496.0,3180.0,Antigüedad < 6 meses
+C0311,Logística y Distribución,Ayudante de reparto,64.0,0.309,10113.0,3129.0,Sueldo bajo dentro de su banda
+C0320,Producción,Supervisor de turno,62.5,0.122,25525.0,3112.0,Ausencias altas
+C0688,Ventas,Preventista,13.8,0.309,10018.0,3092.0,Antigüedad 1 a 2 años
+C0031,Logística y Distribución,Chofer repartidor,201.3,0.294,10496.0,3090.0,Ausencias altas
+C0803,Logística y Distribución,Chofer repartidor,3.0,0.274,11166.0,3061.0,Muchas horas extra
+C0650,Logística y Distribución,Supervisor de distribución,18.8,0.114,26503.0,3035.0,Antigüedad 1 a 2 años
+C0765,Ventas,Preventista,6.5,0.311,9729.0,3030.0,Sueldo bajo dentro de su banda
+C0730,Producción,Auxiliar de producción,10.4,0.28,10688.0,2995.0,Antigüedad 6 a 12 meses
+C0001,Ventas,Mercaderista,215.3,0.311,9346.0,2907.0,Sueldo bajo dentro de su banda
+C0596,Ventas,Preventista,23.3,0.284,10210.0,2904.0,Antigüedad 1 a 2 años
+C0720,Producción,Auxiliar de producción,11.2,0.267,10785.0,2881.0,Antigüedad 6 a 12 meses
+C0725,Logística y Distribución,Supervisor de distribución,10.9,0.1,28707.0,2879.0,Antigüedad 6 a 12 meses
+C0593,Ventas,Analista comercial,23.4,0.037,76276.0,2833.0,Antigüedad 1 a 2 años
+C0085,Logística y Distribución,Ayudante de reparto,173.4,0.26,10785.0,2809.0,Muchas horas extra
+C0758,Mantenimiento,Técnico mecánico,7.6,0.103,26995.0,2779.0,Antigüedad 6 a 12 meses
+C0761,Logística y Distribución,Ayudante de reparto,7.1,0.27,10210.0,2756.0,Antigüedad 6 a 12 meses
+C0826,Producción,Supervisor de turno,0.8,0.099,27729.0,2744.0,Antigüedad < 6 meses
+C0096,Producción,Auxiliar de producción,163.9,0.28,9729.0,2726.0,Sueldo bajo dentro de su banda
+C0242,Logística y Distribución,Auxiliar de almacén,85.5,0.279,9729.0,2715.0,Sueldo bajo dentro de su banda
+C0188,Logística y Distribución,Jefe de logística,114.9,0.038,71454.0,2683.0,Ausencias altas
+C0616,Producción,Operador de llenadora,21.7,0.248,10688.0,2646.0,Antigüedad 1 a 2 años
+C0715,Logística y Distribución,Auxiliar de almacén,11.7,0.252,10402.0,2618.0,Antigüedad 6 a 12 meses
+C0767,Producción,Operador de llenadora,5.9,0.256,10210.0,2618.0,Antigüedad < 6 meses
+C0367,Mantenimiento,Ayudante de mantenimiento,55.5,0.266,9826.0,2616.0,Sueldo bajo dentro de su banda
+C0015,Ventas,Supervisor de ventas,208.0,0.107,24054.0,2577.0,Sueldo bajo dentro de su banda
+C0017,Mantenimiento,Ayudante de mantenimiento,206.4,0.26,9826.0,2558.0,Ausencias altas
+C0669,Producción,Operador de llenadora,16.3,0.218,11741.0,2557.0,Muchas horas extra
+C0686,Logística y Distribución,Auxiliar de almacén,14.0,0.216,11549.0,2494.0,Muchas horas extra
+C0651,Producción,Operario de línea,18.7,0.239,10402.0,2489.0,Antigüedad 1 a 2 años
+C0407,Ventas,Supervisor de ventas,49.1,0.096,25769.0,2470.0,Área Ventas
+C0820,Logística y Distribución,Chofer repartidor,1.1,0.222,11071.0,2463.0,Antigüedad < 6 meses
+C0222,Producción,Supervisor de turno,96.9,0.1,24543.0,2442.0,Sueldo bajo dentro de su banda
+C0314,Logística y Distribución,Auxiliar de almacén,63.8,0.216,11166.0,2411.0,Muchas horas extra
+C0799,Producción,Auxiliar de producción,3.3,0.248,9635.0,2392.0,Sueldo bajo dentro de su banda
+C0806,Producción,Operador de llenadora,3.0,0.226,10402.0,2350.0,Antigüedad < 6 meses
+C0794,Producción,Operador de llenadora,3.8,0.216,10785.0,2330.0,Antigüedad < 6 meses
+C0807,Ventas,Preventista,2.9,0.217,10688.0,2324.0,Antigüedad < 6 meses
+C0146,Producción,Operador de llenadora,139.2,0.241,9635.0,2321.0,Sueldo bajo dentro de su banda
+C0693,Producción,Operario de línea,13.6,0.198,11646.0,2308.0,Antigüedad 1 a 2 años
+C0392,Ventas,Mercaderista,51.2,0.241,9538.0,2297.0,Sueldo bajo dentro de su banda
+C0100,Logística y Distribución,Chofer repartidor,163.6,0.216,10593.0,2293.0,Muchas horas extra
+C0443,Producción,Supervisor de turno,44.0,0.093,24543.0,2280.0,Sueldo bajo dentro de su banda
+C0114,Producción,Auxiliar de producción,156.0,0.252,8868.0,2239.0,Sueldo bajo dentro de su banda
+C0304,Logística y Distribución,Ayudante de reparto,65.3,0.197,11358.0,2233.0,Ausencias altas
+C0259,Producción,Operario de línea,73.9,0.219,10018.0,2195.0,Sueldo bajo dentro de su banda
+C0071,Producción,Supervisor de turno,181.5,0.088,25035.0,2192.0,Sueldo bajo dentro de su banda
+C0388,Administración y Finanzas,Asistente contable,52.3,0.099,22094.0,2184.0,Sueldo bajo dentro de su banda
+C0204,Ventas,Supervisor de ventas,108.8,0.083,26258.0,2176.0,Área Ventas
+C0143,Producción,Operario de línea,141.8,0.211,10305.0,2170.0,Sueldo bajo dentro de su banda
+C0193,Producción,Auxiliar de producción,112.7,0.198,10880.0,2158.0,Muchas horas extra
+C0181,Logística y Distribución,Encargado de almacén,118.2,0.076,27973.0,2115.0,Muchas horas extra
+C0232,Producción,Auxiliar de producción,92.5,0.216,9729.0,2105.0,Sueldo bajo dentro de su banda
+C0674,Producción,Operario de línea,15.7,0.192,10977.0,2103.0,Antigüedad 1 a 2 años
+C0734,Administración y Finanzas,Cajero,10.0,0.211,9921.0,2097.0,Antigüedad 6 a 12 meses
+C0752,Producción,Operario de línea,8.4,0.2,10305.0,2060.0,Antigüedad 6 a 12 meses
+C0207,Mantenimiento,Técnico mecánico,107.6,0.075,27240.0,2052.0,Ausencias altas
+C0079,Logística y Distribución,Ayudante de reparto,178.2,0.2,10210.0,2041.0,Sueldo bajo dentro de su banda
+C0082,Ventas,Mercaderista,175.7,0.202,10113.0,2039.0,Área Ventas
+C0270,Ventas,Mercaderista,69.3,0.208,9729.0,2027.0,Sueldo bajo dentro de su banda
+C0705,Producción,Operador de llenadora,12.2,0.193,10402.0,2004.0,Antigüedad 1 a 2 años
+C0206,Logística y Distribución,Chofer repartidor,107.7,0.194,10305.0,1999.0,Sueldo bajo dentro de su banda
+C0625,Logística y Distribución,Chofer repartidor,21.2,0.185,10593.0,1958.0,Antigüedad 1 a 2 años
+C0067,Administración y Finanzas,Analista financiero,185.8,0.031,63183.0,1950.0,Sueldo bajo dentro de su banda
+C0403,Producción,Auxiliar de producción,49.8,0.191,10210.0,1948.0,Muchas horas extra
+C0344,Producción,Ingeniero de procesos,59.2,0.029,68010.0,1943.0,Sueldo bajo dentro de su banda
+C0757,Producción,Auxiliar de producción,7.6,0.183,10593.0,1937.0,Antigüedad 6 a 12 meses
+C0470,Mantenimiento,Técnico mecánico,41.4,0.074,25769.0,1902.0,Ausencias altas
+C0051,Producción,Auxiliar de producción,191.8,0.188,10018.0,1884.0,Sueldo bajo dentro de su banda
+C0804,Producción,Operador de llenadora,3.0,0.186,10018.0,1864.0,Antigüedad < 6 meses
+C0460,Producción,Operador de llenadora,42.4,0.201,9251.0,1862.0,Sueldo bajo dentro de su banda
+C0709,Logística y Distribución,Chofer repartidor,11.9,0.161,11549.0,1854.0,Antigüedad 6 a 12 meses
+C0827,Ventas,Preventista,0.7,0.173,10688.0,1852.0,Antigüedad < 6 meses
+C0675,Producción,Operador de llenadora,15.5,0.162,11358.0,1838.0,Antigüedad 1 a 2 años
+C0495,Producción,Auxiliar de producción,36.7,0.178,10210.0,1819.0,Sueldo bajo dentro de su banda
+C0717,Producción,Operador de llenadora,11.5,0.153,11741.0,1796.0,Antigüedad 6 a 12 meses
+C0680,Producción,Operario de línea,14.8,0.156,11455.0,1782.0,Antigüedad 1 a 2 años
+C0488,Logística y Distribución,Ayudante de reparto,37.9,0.16,11071.0,1774.0,Ausencias altas
+C0779,Logística y Distribución,Chofer repartidor,5.3,0.157,11166.0,1751.0,Antigüedad < 6 meses
+C0629,Producción,Operador de llenadora,21.1,0.16,10880.0,1746.0,Antigüedad 1 a 2 años
+C0655,Producción,Supervisor de turno,18.4,0.059,29200.0,1722.0,Antigüedad 1 a 2 años
+C0741,Mantenimiento,Técnico eléctrico,9.3,0.062,27484.0,1703.0,Antigüedad 6 a 12 meses
+C0810,Producción,Operario de línea,2.7,0.173,9826.0,1702.0,Antigüedad < 6 meses
+C0599,Administración y Finanzas,Jefe de RRHH,23.1,0.025,68010.0,1702.0,Sueldo bajo dentro de su banda
+C0643,Logística y Distribución,Ayudante de reparto,19.5,0.157,10785.0,1694.0,Antigüedad 1 a 2 años
+C0342,Logística y Distribución,Auxiliar de almacén,59.8,0.167,10113.0,1690.0,Muchas horas extra
+C0209,Producción,Supervisor de turno,105.5,0.065,25769.0,1672.0,Sueldo bajo dentro de su banda
+C0061,Ventas,Preventista,187.0,0.173,9635.0,1665.0,Sueldo bajo dentro de su banda
+C0668,Logística y Distribución,Chofer repartidor,16.5,0.163,10018.0,1632.0,Antigüedad 1 a 2 años
+C0658,Ventas,Preventista,18.3,0.149,10880.0,1626.0,Antigüedad 1 a 2 años
+C0343,Mantenimiento,Técnico eléctrico,59.4,0.062,26014.0,1623.0,Sueldo bajo dentro de su banda
+C0532,Ventas,Supervisor de ventas,30.6,0.064,25280.0,1621.0,Área Ventas
+C0718,Calidad,Analista de laboratorio,11.4,0.06,26747.0,1618.0,Antigüedad 6 a 12 meses
+C0792,Calidad,Inspector de calidad,4.2,0.182,8868.0,1612.0,Sueldo bajo dentro de su banda
+C0389,Producción,Operador de llenadora,51.7,0.153,10496.0,1608.0,Ausencias altas
+C0788,Producción,Operario de línea,4.6,0.143,11166.0,1601.0,Antigüedad < 6 meses
+C0583,Producción,Supervisor de turno,24.8,0.063,25035.0,1589.0,Sueldo bajo dentro de su banda
+C0667,Producción,Auxiliar de producción,16.6,0.141,11263.0,1587.0,Ausencias altas
+C0469,Logística y Distribución,Encargado de almacén,41.5,0.057,27973.0,1586.0,Muchas horas extra
+C0411,Producción,Operario de línea,48.8,0.156,10113.0,1579.0,Sueldo bajo dentro de su banda
+C0086,Logística y Distribución,Ayudante de reparto,172.6,0.155,10113.0,1567.0,Sueldo bajo dentro de su banda
+C0099,Producción,Auxiliar de producción,163.7,0.153,10113.0,1549.0,Sueldo bajo dentro de su banda
+C0515,Logística y Distribución,Ayudante de reparto,32.6,0.158,9635.0,1519.0,Sueldo bajo dentro de su banda
+C0519,Logística y Distribución,Chofer repartidor,32.4,0.147,10305.0,1518.0,Sueldo bajo dentro de su banda
+C0282,Producción,Operador de llenadora,67.9,0.145,10402.0,1504.0,Ausencias altas
+C0171,Ventas,Mercaderista,125.5,0.145,10402.0,1504.0,Área Ventas
+C0665,Producción,Operador de llenadora,17.2,0.141,10402.0,1471.0,Antigüedad 1 a 2 años
+C0165,Logística y Distribución,Ayudante de reparto,129.9,0.142,10305.0,1464.0,Muchas horas extra
+C0266,Logística y Distribución,Ayudante de reparto,70.6,0.133,10977.0,1463.0,Muchas horas extra
+C0822,Producción,Operador de llenadora,1.0,0.124,11646.0,1447.0,Antigüedad < 6 meses
+C0638,Mantenimiento,Ayudante de mantenimiento,20.1,0.134,10785.0,1443.0,Antigüedad 1 a 2 años
+C0251,Ventas,Preventista,79.2,0.125,11455.0,1433.0,Ausencias altas
+C0155,Administración y Finanzas,Jefe de RRHH,134.0,0.022,64565.0,1426.0,Sueldo bajo dentro de su banda
+C0751,Producción,Auxiliar de producción,8.5,0.125,11263.0,1407.0,Antigüedad 6 a 12 meses
+C0484,Mantenimiento,Técnico eléctrico,38.4,0.053,26258.0,1392.0,Menor edad
+C0787,Producción,Operario de línea,4.6,0.137,10113.0,1389.0,Antigüedad < 6 meses
+C0696,Calidad,Inspector de calidad,13.4,0.147,9443.0,1386.0,Sueldo bajo dentro de su banda
+C0452,Logística y Distribución,Chofer repartidor,43.3,0.133,10402.0,1383.0,Muchas horas extra
+C0702,Logística y Distribución,Auxiliar de almacén,12.4,0.122,11358.0,1383.0,Antigüedad 1 a 2 años
+C0370,Administración y Finanzas,Asistente contable,55.3,0.062,22094.0,1360.0,Sueldo bajo dentro de su banda
+C0561,Logística y Distribución,Encargado de almacén,26.8,0.053,25525.0,1359.0,Sueldo bajo dentro de su banda
+C0746,Producción,Operario de línea,9.1,0.127,10688.0,1353.0,Antigüedad 6 a 12 meses
+C0685,Logística y Distribución,Chofer repartidor,14.2,0.113,11933.0,1351.0,Antigüedad 1 a 2 años
+C0691,Calidad,Inspector de calidad,13.6,0.132,10113.0,1339.0,Antigüedad 1 a 2 años
+C0608,Ventas,Mercaderista,22.4,0.119,11166.0,1325.0,Antigüedad 1 a 2 años
+C0749,Producción,Operador de llenadora,8.7,0.122,10785.0,1318.0,Antigüedad 6 a 12 meses
+C0729,Producción,Auxiliar de producción,10.5,0.12,10977.0,1313.0,Antigüedad 6 a 12 meses
+C0305,Producción,Operador de llenadora,65.3,0.119,10977.0,1307.0,Muchas horas extra
+C0372,Producción,Operario de línea,54.1,0.112,11646.0,1307.0,Muchas horas extra
+C0415,Logística y Distribución,Chofer repartidor,48.1,0.115,11358.0,1302.0,Menor edad
+C0399,Ventas,Mercaderista,50.9,0.127,10210.0,1294.0,Área Ventas
+C0158,Calidad,Inspector de calidad,133.4,0.146,8868.0,1293.0,Sueldo bajo dentro de su banda
+C0770,Producción,Operario de línea,5.7,0.127,10113.0,1282.0,Antigüedad < 6 meses
+C0300,Ventas,Preventista,66.4,0.117,10977.0,1282.0,Área Ventas
+C0568,Logística y Distribución,Ayudante de reparto,26.1,0.123,10402.0,1279.0,Menor edad
+C0092,Logística y Distribución,Jefe de logística,168.6,0.02,64565.0,1270.0,Sueldo bajo dentro de su banda
+C0036,Logística y Distribución,Chofer repartidor,200.1,0.112,11263.0,1262.0,Muchas horas extra
+C0408,Producción,Operario de línea,49.1,0.12,10496.0,1255.0,Ausencias altas
+C0829,Logística y Distribución,Ayudante de reparto,0.2,0.103,12125.0,1250.0,Antigüedad < 6 meses
+C0598,Producción,Operario de línea,23.2,0.113,10880.0,1232.0,Antigüedad 1 a 2 años
+C0624,Ventas,Supervisor de ventas,21.2,0.042,29200.0,1229.0,Antigüedad 1 a 2 años
+C0486,Producción,Auxiliar de producción,38.0,0.117,10402.0,1221.0,Menor edad
+C0817,Producción,Operario de línea,1.8,0.111,10880.0,1212.0,Antigüedad < 6 meses
+C0784,Administración y Finanzas,Auxiliar administrativo,4.8,0.111,10880.0,1205.0,Antigüedad < 6 meses
+C0231,Producción,Supervisor de turno,92.5,0.049,24543.0,1199.0,Sueldo bajo dentro de su banda
+C0180,Producción,Auxiliar de producción,118.4,0.114,10496.0,1196.0,Ausencias altas
+C0597,Producción,Operador de llenadora,23.2,0.117,10210.0,1193.0,Antigüedad 1 a 2 años
+C0137,Logística y Distribución,Ayudante de reparto,144.7,0.108,11071.0,1191.0,Muchas horas extra
+C0353,Logística y Distribución,Auxiliar de almacén,57.4,0.117,10113.0,1188.0,Sueldo bajo dentro de su banda
+C0377,Ventas,Jefe comercial,53.3,0.017,71454.0,1179.0,Área Ventas
+C0287,Logística y Distribución,Auxiliar de almacén,67.4,0.103,11358.0,1167.0,Muchas horas extra
+C0584,Producción,Auxiliar de producción,24.5,0.113,10210.0,1157.0,Sueldo bajo dentro de su banda
+C0683,Logística y Distribución,Supervisor de distribución,14.5,0.038,29689.0,1142.0,Antigüedad 1 a 2 años
+C0824,Producción,Operador de llenadora,0.9,0.104,10785.0,1127.0,Antigüedad < 6 meses
+C0514,Producción,Auxiliar de producción,32.7,0.108,10305.0,1118.0,Sueldo bajo dentro de su banda
+C0175,Logística y Distribución,Encargado de almacén,121.2,0.044,25035.0,1099.0,Sueldo bajo dentro de su banda
+C0135,Ventas,Mercaderista,146.0,0.108,10210.0,1099.0,Área Ventas
+C0439,Ventas,Preventista,44.4,0.103,10593.0,1096.0,Área Ventas
+C0243,Logística y Distribución,Auxiliar de almacén,85.3,0.107,10210.0,1088.0,Sueldo bajo dentro de su banda
+C0262,Producción,Operador de llenadora,71.8,0.105,10305.0,1085.0,Sueldo bajo dentro de su banda
+C0065,Producción,Auxiliar de producción,186.0,0.095,11358.0,1079.0,Muchas horas extra
+C0095,Producción,Auxiliar de producción,166.6,0.101,10688.0,1076.0,Ausencias altas
+C0026,Producción,Ingeniero de procesos,203.2,0.015,70763.0,1075.0,Sueldo bajo dentro de su banda
+C0200,Producción,Auxiliar de producción,110.4,0.104,10210.0,1059.0,Sueldo bajo dentro de su banda
+C0169,Logística y Distribución,Chofer repartidor,126.7,0.097,10785.0,1047.0,Área Logística y Distribución
+C0687,Calidad,Analista de laboratorio,13.8,0.039,26503.0,1046.0,Ausencias altas
+C0592,Ventas,Mercaderista,23.4,0.098,10688.0,1045.0,Antigüedad 1 a 2 años
+C0211,Ventas,Mercaderista,104.9,0.103,10113.0,1043.0,Área Ventas
+C0632,Ventas,Preventista,20.8,0.09,11455.0,1034.0,Antigüedad 1 a 2 años
+C0267,Ventas,Mercaderista,70.3,0.102,10113.0,1034.0,Área Ventas
+C0233,Ventas,Preventista,92.1,0.104,9921.0,1033.0,Sueldo bajo dentro de su banda
+C0365,Producción,Operario de línea,56.0,0.102,10018.0,1020.0,Sueldo bajo dentro de su banda
+C0461,Producción,Supervisor de turno,42.3,0.038,26747.0,1015.0,Sueldo bajo dentro de su banda
+C0397,Ventas,Preventista,51.0,0.096,10496.0,1009.0,Área Ventas
+C0359,Logística y Distribución,Auxiliar de almacén,56.9,0.093,10688.0,997.0,Menor edad
+C0174,Administración y Finanzas,Analista financiero,121.3,0.014,71454.0,993.0,Sueldo bajo dentro de su banda
+C0541,Logística y Distribución,Chofer repartidor,29.3,0.095,10402.0,985.0,Sueldo bajo dentro de su banda
+C0249,Mantenimiento,Técnico mecánico,81.0,0.037,26503.0,981.0,Sueldo bajo dentro de su banda
+C0289,Logística y Distribución,Auxiliar de almacén,67.3,0.081,12125.0,981.0,Muchas horas extra
+C0677,Producción,Operario de línea,15.4,0.093,10496.0,979.0,Antigüedad 1 a 2 años
+C0062,Ventas,Mercaderista,186.8,0.093,10402.0,967.0,Área Ventas
+C0263,Logística y Distribución,Chofer repartidor,71.8,0.089,10880.0,967.0,Muchas horas extra
+C0642,Ventas,Mercaderista,19.8,0.084,11455.0,958.0,Antigüedad 1 a 2 años
+C0478,Producción,Auxiliar de producción,39.8,0.088,10880.0,955.0,Muchas horas extra
+C0236,Logística y Distribución,Chofer repartidor,90.3,0.094,10113.0,952.0,Sueldo bajo dentro de su banda
+C0348,Administración y Finanzas,Analista financiero,58.7,0.013,70763.0,950.0,Sueldo bajo dentro de su banda
+C0417,Ventas,Mercaderista,47.6,0.094,10018.0,945.0,Sueldo bajo dentro de su banda
+C0212,Mantenimiento,Jefe de mantenimiento,103.4,0.013,74208.0,944.0,Ausencias altas
+C0150,Ventas,Preventista,137.3,0.082,11455.0,943.0,Ausencias altas
+C0201,Mantenimiento,Técnico eléctrico,109.9,0.036,26258.0,933.0,Sueldo bajo dentro de su banda
+C0070,Producción,Operador de llenadora,181.6,0.092,10018.0,925.0,Sueldo bajo dentro de su banda
+C0179,Producción,Auxiliar de producción,118.6,0.083,10880.0,906.0,Muchas horas extra
+C0257,Mantenimiento,Técnico eléctrico,75.0,0.036,25035.0,896.0,Sueldo bajo dentro de su banda
+C0631,Producción,Auxiliar de producción,21.1,0.082,10977.0,895.0,Antigüedad 1 a 2 años
+C0738,Administración y Finanzas,Cajero,9.7,0.083,10688.0,887.0,Antigüedad 6 a 12 meses
+C0076,Producción,Operador de llenadora,180.1,0.086,10210.0,882.0,Sueldo bajo dentro de su banda
+C0704,Logística y Distribución,Chofer repartidor,12.3,0.07,12222.0,853.0,Antigüedad 1 a 2 años
+C0006,Logística y Distribución,Auxiliar de almacén,213.0,0.078,10977.0,851.0,Área Logística y Distribución
+C0528,Producción,Supervisor de turno,31.0,0.032,26747.0,851.0,Menor edad
+C0458,Logística y Distribución,Chofer repartidor,42.7,0.076,11071.0,840.0,Área Logística y Distribución
+C0133,Logística y Distribución,Jefe de logística,146.5,0.011,74899.0,840.0,Área Logística y Distribución
+C0479,Producción,Operador de llenadora,39.4,0.077,10785.0,835.0,Ausencias altas
+C0390,Ventas,Preventista,51.6,0.08,10402.0,829.0,Área Ventas
+C0406,Producción,Operador de llenadora,49.6,0.079,10496.0,827.0,Menor edad
+C0088,Producción,Supervisor de turno,169.9,0.031,26503.0,822.0,Sueldo bajo dentro de su banda
+C0511,Mantenimiento,Técnico eléctrico,33.4,0.03,26995.0,803.0,Muchas horas extra
+C0360,Producción,Operador de llenadora,56.6,0.08,10018.0,797.0,Sueldo bajo dentro de su banda
+C0550,Producción,Operario de línea,28.2,0.076,10496.0,793.0,Menor edad
+C0028,Administración y Finanzas,Jefe de RRHH,202.6,0.012,68696.0,792.0,Sueldo bajo dentro de su banda
+C0346,Producción,Ingeniero de procesos,58.9,0.011,74899.0,787.0,Desempeño alto
+C0238,Logística y Distribución,Jefe de logística,87.9,0.011,71454.0,782.0,Sueldo bajo dentro de su banda
+C0413,Producción,Operario de línea,48.3,0.074,10496.0,779.0,Muchas horas extra
+C0303,Producción,Supervisor de turno,65.4,0.031,24791.0,769.0,Sueldo bajo dentro de su banda
+C0224,Producción,Operario de línea,96.2,0.071,10785.0,761.0,Muchas horas extra
+C0819,Producción,Operador de llenadora,1.2,0.07,10880.0,757.0,Antigüedad < 6 meses
+C0052,Producción,Operario de línea,191.5,0.077,9729.0,753.0,Sueldo bajo dentro de su banda
+C0163,Ventas,Preventista,130.3,0.072,10402.0,753.0,Área Ventas
+C0294,Mantenimiento,Jefe de mantenimiento,67.1,0.01,72140.0,751.0,Sueldo bajo dentro de su banda
+C0131,Producción,Auxiliar de producción,147.4,0.066,11358.0,749.0,Ausencias altas
+C0013,Producción,Operario de línea,208.9,0.077,9635.0,742.0,Sueldo bajo dentro de su banda
+C0358,Producción,Auxiliar de producción,56.9,0.07,10593.0,742.0,Ausencias altas
+C0350,Mantenimiento,Ayudante de mantenimiento,58.7,0.071,10402.0,742.0,Sueldo bajo dentro de su banda
+C0309,Calidad,Jefe de calidad,64.5,0.011,69386.0,732.0,Sueldo bajo dentro de su banda
+C0196,Ventas,Supervisor de ventas,112.4,0.027,27484.0,731.0,Área Ventas
+C0468,Mantenimiento,Técnico mecánico,41.8,0.028,25769.0,728.0,Sueldo bajo dentro de su banda
+C0782,Administración y Finanzas,Cajero,5.2,0.067,10785.0,725.0,Antigüedad < 6 meses
+C0355,Ventas,Supervisor de ventas,57.3,0.026,27973.0,724.0,Área Ventas
+C0084,Calidad,Jefe de calidad,173.9,0.011,65942.0,719.0,Sueldo bajo dentro de su banda
+C0521,Calidad,Inspector de calidad,32.2,0.074,9729.0,718.0,Sueldo bajo dentro de su banda
+C0091,Administración y Finanzas,Asistente de RRHH,169.3,0.027,26014.0,715.0,Sueldo bajo dentro de su banda
+C0172,Mantenimiento,Técnico mecánico,124.4,0.027,26258.0,711.0,Sueldo bajo dentro de su banda
+C0357,Producción,Supervisor de turno,56.9,0.026,27484.0,710.0,Muchas horas extra
+C0148,Producción,Operario de línea,137.5,0.063,11263.0,709.0,Muchas horas extra
+C0580,Logística y Distribución,Ayudante de reparto,25.2,0.063,11263.0,707.0,Menor edad
+C0166,Logística y Distribución,Ayudante de reparto,129.1,0.063,11166.0,704.0,Muchas horas extra
+C0430,Logística y Distribución,Chofer repartidor,45.4,0.061,11455.0,702.0,Muchas horas extra
+C0066,Producción,Operador de llenadora,185.8,0.062,11166.0,696.0,Muchas horas extra
+C0132,Ventas,Mercaderista,147.1,0.062,11166.0,696.0,Área Ventas
+C0830,Logística y Distribución,Auxiliar de almacén,0.1,0.066,10402.0,691.0,Antigüedad < 6 meses
+C0098,Logística y Distribución,Auxiliar de almacén,163.8,0.065,10593.0,686.0,Área Logística y Distribución
+C0432,Logística y Distribución,Encargado de almacén,45.3,0.021,31893.0,682.0,Ausencias altas
+C0437,Mantenimiento,Jefe de mantenimiento,44.5,0.009,76276.0,682.0,Menor edad
+C0149,Ventas,Mercaderista,137.3,0.067,10113.0,680.0,Área Ventas
+C0093,Producción,Operario de línea,167.9,0.062,10880.0,674.0,Muchas horas extra
+C0381,Administración y Finanzas,Analista financiero,53.0,0.01,70763.0,673.0,Sueldo bajo dentro de su banda
+C0156,Producción,Operador de llenadora,134.0,0.06,11166.0,673.0,Muchas horas extra
+C0216,Ventas,Jefe comercial,101.6,0.009,76276.0,670.0,Área Ventas
+C0493,Administración y Finanzas,Cajero,37.1,0.067,9826.0,660.0,Sueldo bajo dentro de su banda
+C0183,Producción,Auxiliar de producción,118.1,0.062,10496.0,649.0,Ausencias altas
+C0119,Producción,Operario de línea,153.3,0.062,10402.0,643.0,Sueldo bajo dentro de su banda
+C0072,Producción,Operario de línea,181.4,0.06,10785.0,642.0,Ausencias altas
+C0373,Producción,Operador de llenadora,53.7,0.059,10785.0,633.0,Menor edad
+C0299,Producción,Operario de línea,66.5,0.053,11933.0,627.0,Muchas horas extra
+C0048,Logística y Distribución,Chofer repartidor,194.3,0.057,10977.0,625.0,Muchas horas extra
+C0690,Logística y Distribución,Ayudante de reparto,13.8,0.053,11838.0,624.0,Antigüedad 1 a 2 años
+C0037,Logística y Distribución,Chofer repartidor,199.7,0.056,11166.0,624.0,Área Logística y Distribución
+C0252,Producción,Auxiliar de producción,77.8,0.062,10113.0,622.0,Sueldo bajo dentro de su banda
+C0496,Logística y Distribución,Chofer repartidor,36.7,0.057,10880.0,620.0,Área Logística y Distribución
+C0274,Administración y Finanzas,Asistente contable,68.6,0.023,27484.0,619.0,Ausencias altas
+C0157,Administración y Finanzas,Asistente de RRHH,133.5,0.022,27240.0,610.0,Menor edad
+C0103,Producción,Auxiliar de producción,161.3,0.057,10785.0,609.0,Ausencias altas
+C0089,Producción,Ingeniero de procesos,169.5,0.008,75585.0,602.0,Ausencias altas
+C0467,Mantenimiento,Técnico eléctrico,41.8,0.022,26995.0,596.0,Área Mantenimiento
+C0053,Ventas,Preventista,191.0,0.056,10593.0,596.0,Área Ventas
+C0010,Producción,Auxiliar de producción,210.0,0.055,10593.0,586.0,Muchas horas extra
+C0466,Mantenimiento,Técnico eléctrico,42.0,0.022,26014.0,585.0,Sueldo bajo dentro de su banda
+C0739,Producción,Auxiliar de producción,9.7,0.051,11455.0,580.0,Antigüedad 6 a 12 meses
+C0422,Producción,Operador de llenadora,46.8,0.055,10402.0,569.0,Sueldo bajo dentro de su banda
+C0317,Mantenimiento,Jefe de mantenimiento,63.3,0.008,72831.0,559.0,Sueldo bajo dentro de su banda
+C0215,Ventas,Preventista,102.0,0.053,10593.0,557.0,Área Ventas
+C0416,Producción,Operador de llenadora,48.1,0.051,10785.0,553.0,Ausencias altas
+C0354,Producción,Operador de llenadora,57.4,0.054,10305.0,553.0,Sueldo bajo dentro de su banda
+C0005,Logística y Distribución,Ayudante de reparto,213.1,0.051,10785.0,552.0,Muchas horas extra
+C0332,Producción,Operador de llenadora,61.3,0.05,10880.0,546.0,Desempeño alto
+C0569,Administración y Finanzas,Auxiliar administrativo,26.1,0.05,10785.0,541.0,Menor edad
+C0020,Producción,Auxiliar de producción,204.8,0.052,10305.0,540.0,Sueldo bajo dentro de su banda
+C0173,Producción,Auxiliar de producción,122.2,0.053,10113.0,531.0,Sueldo bajo dentro de su banda
+C0107,Ventas,Preventista,160.0,0.05,10688.0,531.0,Área Ventas
+C0050,Ventas,Mercaderista,192.7,0.049,10593.0,524.0,Área Ventas
+C0291,Administración y Finanzas,Auxiliar administrativo,67.3,0.048,10688.0,518.0,Ausencias altas
+C0218,Logística y Distribución,Chofer repartidor,100.1,0.046,11263.0,518.0,Ausencias altas
+C0363,Logística y Distribución,Encargado de almacén,56.2,0.018,28462.0,515.0,Área Logística y Distribución
+C0681,Producción,Operario de línea,14.8,0.045,11263.0,508.0,Antigüedad 1 a 2 años
+C0459,Ventas,Preventista,42.7,0.046,10977.0,507.0,Área Ventas
+C0268,Producción,Operario de línea,70.0,0.046,10880.0,504.0,Ausencias altas
+C0296,Administración y Finanzas,Asistente de RRHH,66.8,0.018,26995.0,483.0,Ausencias altas
+C0105,Logística y Distribución,Chofer repartidor,160.7,0.044,10977.0,482.0,Área Logística y Distribución
+C0140,Ventas,Preventista,143.0,0.044,11071.0,482.0,Área Ventas
+C0111,Producción,Ingeniero de procesos,158.2,0.007,73522.0,481.0,Sueldo bajo dentro de su banda
+C0185,Producción,Auxiliar de producción,116.1,0.043,11071.0,479.0,Muchas horas extra
+C0621,Producción,Operario de línea,21.5,0.043,11071.0,478.0,Antigüedad 1 a 2 años
+C0491,Producción,Operador de llenadora,37.4,0.038,12605.0,478.0,Muchas horas extra
+C0471,Ventas,Mercaderista,41.4,0.041,11358.0,468.0,Área Ventas
+C0762,Calidad,Analista de laboratorio,7.0,0.017,27484.0,463.0,Antigüedad 6 a 12 meses
+C0672,Administración y Finanzas,Auxiliar administrativo,16.1,0.043,10593.0,459.0,Antigüedad 1 a 2 años
+C0273,Producción,Supervisor de turno,68.6,0.016,29200.0,453.0,Ausencias altas
+C0280,Producción,Supervisor de turno,68.0,0.015,29200.0,451.0,Vive lejos del trabajo
+C0438,Producción,Operador de llenadora,44.5,0.039,11549.0,447.0,Ausencias altas
+C0427,Producción,Supervisor de turno,45.7,0.015,29689.0,446.0,Ausencias altas
+C0044,Ventas,Analista comercial,197.1,0.005,81097.0,441.0,Área Ventas
+C0136,Logística y Distribución,Ayudante de reparto,145.9,0.04,11071.0,441.0,Área Logística y Distribución
+C0328,Administración y Finanzas,Jefe de RRHH,61.7,0.006,75585.0,440.0,Desempeño alto
+C0371,Mantenimiento,Ayudante de mantenimiento,55.1,0.041,10785.0,439.0,Menor edad
+C0814,Administración y Finanzas,Auxiliar administrativo,2.2,0.041,10496.0,433.0,Antigüedad < 6 meses
+C0329,Producción,Auxiliar de producción,61.7,0.037,11646.0,430.0,Ausencias altas
+C0069,Ventas,Preventista,182.9,0.039,10880.0,428.0,Área Ventas
+C0055,Producción,Operario de línea,189.4,0.039,10880.0,428.0,Desempeño alto
+C0192,Administración y Finanzas,Contador general,113.2,0.006,76967.0,425.0,Ausencias altas
+C0101,Producción,Auxiliar de producción,162.6,0.038,11263.0,424.0,Muchas horas extra
+C0302,Mantenimiento,Ayudante de mantenimiento,65.4,0.036,11455.0,415.0,Ausencias altas
+C0256,Logística y Distribución,Auxiliar de almacén,75.1,0.036,11455.0,407.0,Área Logística y Distribución
+C0230,Producción,Operador de llenadora,93.5,0.039,10305.0,406.0,Sueldo bajo dentro de su banda
+C0194,Ventas,Preventista,112.5,0.035,11455.0,404.0,Área Ventas
+C0338,Logística y Distribución,Encargado de almacén,60.8,0.013,29689.0,397.0,Área Logística y Distribución
+C0123,Administración y Finanzas,Asistente contable,151.1,0.014,26995.0,390.0,Ausencias altas
+C0436,Producción,Supervisor de turno,44.7,0.014,27973.0,389.0,Vive lejos del trabajo
+C0035,Calidad,Analista de laboratorio,200.5,0.016,25035.0,389.0,Sueldo bajo dentro de su banda
+C0394,Administración y Finanzas,Asistente de RRHH,51.2,0.015,25525.0,387.0,Sueldo bajo dentro de su banda
+C0030,Logística y Distribución,Auxiliar de almacén,201.7,0.034,11263.0,385.0,Área Logística y Distribución
+C0003,Ventas,Preventista,213.5,0.035,10977.0,383.0,Área Ventas
+C0029,Producción,Auxiliar de producción,201.9,0.035,10688.0,377.0,Muchas horas extra
+C0393,Administración y Finanzas,Contador general,51.2,0.005,74208.0,374.0,Desempeño alto
+C0633,Calidad,Inspector de calidad,20.6,0.034,10785.0,371.0,Antigüedad 1 a 2 años
+C0278,Producción,Auxiliar de producción,68.1,0.035,10402.0,368.0,Sueldo bajo dentro de su banda
+C0214,Logística y Distribución,Auxiliar de almacén,102.7,0.034,10688.0,365.0,Área Logística y Distribución
+C0034,Logística y Distribución,Chofer repartidor,200.6,0.033,11071.0,365.0,Área Logística y Distribución
+C0558,Mantenimiento,Ayudante de mantenimiento,27.0,0.031,11838.0,362.0,Ausencias altas
+C0014,Calidad,Analista de laboratorio,208.7,0.013,26995.0,360.0,Ausencias altas
+C0176,Producción,Operador de llenadora,121.0,0.031,11455.0,359.0,Muchas horas extra
+C0239,Producción,Operador de llenadora,87.9,0.03,12030.0,358.0,Muchas horas extra
+C0605,Calidad,Inspector de calidad,22.6,0.033,10785.0,356.0,Antigüedad 1 a 2 años
+C0115,Producción,Supervisor de turno,154.4,0.012,28462.0,355.0,Ausencias altas
+C0237,Producción,Operador de llenadora,89.0,0.031,11358.0,353.0,Menor edad
+C0434,Calidad,Analista de laboratorio,44.9,0.013,26014.0,350.0,Sueldo bajo dentro de su banda
+C0535,Producción,Auxiliar de producción,30.3,0.03,11741.0,349.0,Muchas horas extra
+C0199,Producción,Operario de línea,111.0,0.029,12030.0,347.0,Ausencias altas
+C0501,Mantenimiento,Técnico mecánico,34.8,0.012,27973.0,340.0,Área Mantenimiento
+C0560,Logística y Distribución,Supervisor de distribución,26.8,0.012,28955.0,334.0,Área Logística y Distribución
+C0081,Producción,Supervisor de turno,176.8,0.012,27729.0,331.0,Ausencias altas
+C0341,Administración y Finanzas,Cajero,59.9,0.032,10210.0,330.0,Sueldo bajo dentro de su banda
+C0497,Producción,Ingeniero de procesos,36.7,0.004,76276.0,329.0,Menor edad
+C0145,Ventas,Mercaderista,140.0,0.03,10785.0,325.0,Área Ventas
+C0040,Calidad,Inspector de calidad,199.0,0.029,11071.0,323.0,Ausencias altas
+C0217,Producción,Operario de línea,100.6,0.029,11263.0,321.0,Muchas horas extra
+C0047,Producción,Supervisor de turno,195.2,0.011,28462.0,321.0,Ausencias altas
+C0336,Administración y Finanzas,Auxiliar administrativo,61.0,0.028,11549.0,320.0,Ausencias altas
+C0159,Calidad,Inspector de calidad,132.9,0.03,10785.0,319.0,Ausencias altas
+C0284,Producción,Operario de línea,67.8,0.03,10593.0,317.0,Muchas horas extra
+C0235,Ventas,Mercaderista,90.6,0.027,11549.0,317.0,Área Ventas
+C0446,Logística y Distribución,Ayudante de reparto,43.7,0.027,11549.0,311.0,Área Logística y Distribución
+C0574,Producción,Supervisor de turno,25.8,0.011,27729.0,305.0,Menor edad
+C0395,Logística y Distribución,Chofer repartidor,51.2,0.026,11646.0,305.0,Muchas horas extra
+C0075,Logística y Distribución,Auxiliar de almacén,180.2,0.026,11549.0,298.0,Muchas horas extra
+C0324,Logística y Distribución,Ayudante de reparto,61.9,0.025,11838.0,298.0,Área Logística y Distribución
+C0247,Administración y Finanzas,Jefe de RRHH,82.7,0.004,77653.0,298.0,Desempeño alto
+C0038,Producción,Operador de llenadora,199.6,0.026,11166.0,295.0,Muchas horas extra
+C0142,Logística y Distribución,Chofer repartidor,142.3,0.027,10977.0,294.0,Muchas horas extra
+C0042,Logística y Distribución,Auxiliar de almacén,197.4,0.026,11455.0,293.0,Muchas horas extra
+C0108,Producción,Auxiliar de producción,159.9,0.027,10785.0,291.0,Desempeño alto
+C0694,Calidad,Inspector de calidad,13.5,0.025,11741.0,288.0,Antigüedad 1 a 2 años
+C0498,Administración y Finanzas,Asistente de RRHH,36.4,0.01,29200.0,287.0,Desempeño alto
+C0579,Ventas,Mercaderista,25.4,0.025,11263.0,284.0,Área Ventas
+C0160,Producción,Operario de línea,132.2,0.024,11838.0,278.0,Muchas horas extra
+C0128,Logística y Distribución,Ayudante de reparto,149.7,0.025,11166.0,276.0,Área Logística y Distribución
+C0345,Producción,Ingeniero de procesos,59.0,0.003,79720.0,272.0,Ausencias altas
+C0450,Mantenimiento,Ayudante de mantenimiento,43.5,0.024,11455.0,270.0,Menor edad
+C0246,Ventas,Mercaderista,82.7,0.023,11358.0,265.0,Área Ventas
+C0210,Administración y Finanzas,Contador general,104.9,0.004,75585.0,265.0,Sin factor destacado
+C0376,Mantenimiento,Técnico mecánico,53.3,0.009,29689.0,264.0,Menor edad
+C0292,Producción,Auxiliar de producción,67.3,0.022,11646.0,261.0,Ausencias altas
+C0141,Producción,Auxiliar de producción,142.6,0.023,11071.0,260.0,Ausencias altas
+C0120,Producción,Supervisor de turno,152.0,0.009,27484.0,257.0,Sin factor destacado
+C0229,Administración y Finanzas,Cajero,94.6,0.022,11549.0,256.0,Ausencias altas
+C0090,Mantenimiento,Ayudante de mantenimiento,169.5,0.022,11455.0,247.0,Ausencias altas
+C0327,Producción,Operador de llenadora,61.7,0.021,11741.0,246.0,Menor edad
+C0151,Calidad,Analista de laboratorio,137.2,0.009,26995.0,237.0,Desempeño alto
+C0240,Producción,Operario de línea,87.2,0.021,11166.0,237.0,Menor edad
+C0097,Ventas,Preventista,163.8,0.02,11549.0,236.0,Área Ventas
+C0398,Producción,Operador de llenadora,51.0,0.02,11646.0,231.0,Desempeño alto
+C0117,Producción,Jefe de producción,153.8,0.003,76276.0,229.0,Sin factor destacado
+C0234,Producción,Operario de línea,91.0,0.019,11933.0,227.0,Muchas horas extra
+C0286,Calidad,Jefe de calidad,67.6,0.003,75585.0,227.0,Sin factor destacado
+C0009,Mantenimiento,Ayudante de mantenimiento,210.0,0.02,11455.0,226.0,Muchas horas extra
+C0195,Producción,Operario de línea,112.5,0.019,11358.0,218.0,Menor edad
+C0457,Administración y Finanzas,Cajero,42.7,0.021,10305.0,218.0,Sueldo bajo dentro de su banda
+C0032,Mantenimiento,Jefe de mantenimiento,201.0,0.003,81788.0,217.0,Desempeño alto
+C0057,Producción,Operador de llenadora,189.0,0.02,10977.0,216.0,Muchas horas extra
+C0277,Producción,Operario de línea,68.2,0.019,11166.0,215.0,Muchas horas extra
+C0482,Logística y Distribución,Chofer repartidor,39.0,0.018,11933.0,215.0,Área Logística y Distribución
+C0504,Logística y Distribución,Auxiliar de almacén,34.4,0.018,11838.0,209.0,Área Logística y Distribución
+C0264,Producción,Operario de línea,71.0,0.017,12030.0,201.0,Muchas horas extra
+C0260,Ventas,Preventista,72.9,0.017,11549.0,197.0,Área Ventas
+C0087,Producción,Operario de línea,171.9,0.017,11838.0,196.0,Muchas horas extra
+C0485,Calidad,Inspector de calidad,38.2,0.019,10018.0,189.0,Sueldo bajo dentro de su banda
+C0203,Ventas,Mercaderista,109.5,0.014,12605.0,180.0,Área Ventas
+C0225,Producción,Auxiliar de producción,95.7,0.014,12891.0,176.0,Muchas horas extra
+C0021,Mantenimiento,Técnico mecánico,204.7,0.006,30178.0,172.0,Desempeño alto
+C0293,Administración y Finanzas,Asistente contable,67.2,0.006,30178.0,170.0,Desempeño alto
+C0045,Logística y Distribución,Auxiliar de almacén,196.2,0.014,12316.0,170.0,Área Logística y Distribución
+C0241,Producción,Operario de línea,86.0,0.014,12030.0,164.0,Muchas horas extra
+C0670,Producción,Operario de línea,16.1,0.012,12891.0,161.0,Antigüedad 1 a 2 años
+C0449,Producción,Operador de llenadora,43.5,0.014,11741.0,161.0,Muchas horas extra
+C0147,Producción,Auxiliar de producción,138.2,0.012,11549.0,144.0,Sin factor destacado
+C0227,Producción,Operario de línea,95.3,0.013,11263.0,141.0,Muchas horas extra
+C0221,Calidad,Analista de laboratorio,98.0,0.005,26995.0,141.0,Vive lejos del trabajo
+C0058,Logística y Distribución,Auxiliar de almacén,188.6,0.012,11838.0,137.0,Área Logística y Distribución
+C0083,Producción,Auxiliar de producción,173.9,0.011,11838.0,135.0,Ausencias altas
+C0023,Producción,Auxiliar de producción,204.0,0.011,11933.0,134.0,Muchas horas extra
+C0500,Mantenimiento,Técnico eléctrico,36.2,0.004,29444.0,131.0,Área Mantenimiento
+C0144,Administración y Finanzas,Analista financiero,140.7,0.002,79720.0,130.0,Sin factor destacado
+C0134,Producción,Supervisor de turno,146.1,0.004,30667.0,128.0,Muchas horas extra
+C0351,Ventas,Mercaderista,57.8,0.01,11933.0,121.0,Área Ventas
+C0455,Ventas,Mercaderista,42.8,0.01,12125.0,121.0,Área Ventas
+C0022,Administración y Finanzas,Contador general,204.5,0.001,81097.0,119.0,Desempeño alto
+C0483,Administración y Finanzas,Asistente de RRHH,38.5,0.004,30422.0,118.0,Menor edad
+C0678,Administración y Finanzas,Auxiliar administrativo,14.9,0.009,12700.0,118.0,Antigüedad 1 a 2 años
+C0297,Producción,Operario de línea,66.7,0.009,11933.0,112.0,Sin factor destacado
+C0189,Administración y Finanzas,Auxiliar administrativo,114.4,0.01,11166.0,109.0,Sin factor destacado
+C0276,Producción,Auxiliar de producción,68.3,0.008,12700.0,104.0,Muchas horas extra
+C0245,Calidad,Inspector de calidad,83.4,0.009,11263.0,103.0,Desempeño alto
+C0265,Calidad,Inspector de calidad,70.6,0.008,11646.0,96.0,Ausencias altas
+C0056,Producción,Auxiliar de producción,189.4,0.008,11549.0,93.0,Desempeño alto
+C0012,Administración y Finanzas,Asistente contable,208.9,0.003,28462.0,86.0,Vive lejos del trabajo
+C0228,Administración y Finanzas,Cajero,95.3,0.007,11455.0,85.0,Desempeño alto
+C0202,Administración y Finanzas,Asistente de RRHH,109.6,0.003,30911.0,84.0,Ausencias altas
+C0285,Calidad,Analista de laboratorio,67.7,0.003,28707.0,80.0,Sin factor destacado
+C0435,Calidad,Inspector de calidad,44.9,0.007,11358.0,77.0,Vive lejos del trabajo
+C0208,Calidad,Inspector de calidad,107.1,0.005,11933.0,65.0,Desempeño alto
+C0130,Producción,Operador de llenadora,147.8,0.005,11741.0,63.0,Sin factor destacado
+C0007,Calidad,Analista de laboratorio,212.9,0.002,28462.0,61.0,Sin factor destacado
+C0290,Calidad,Inspector de calidad,67.3,0.005,11549.0,60.0,Menor edad
+C0499,Producción,Ingeniero de procesos,36.3,0.001,85233.0,59.0,Sin factor destacado
+C0401,Administración y Finanzas,Asistente de RRHH,50.0,0.002,31648.0,56.0,Ausencias altas
+C0168,Producción,Auxiliar de producción,127.3,0.004,12316.0,55.0,Vive lejos del trabajo
+C0033,Calidad,Analista de laboratorio,200.8,0.002,28707.0,44.0,Vive lejos del trabajo
+C0138,Calidad,Inspector de calidad,144.5,0.002,12030.0,27.0,Sin factor destacado
