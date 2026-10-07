@@ -1,0 +1,4 @@
+nivel,reclutamiento_bs,induccion_meses_sueldo,meses_curva_aprendizaje,productividad_en_curva,dias_vacante
+Operativo,1200,0.5,3,0.6,20
+Técnico y supervisión,2500,0.75,4,0.6,30
+Profesional y jefatura,6000,1.0,6,0.6,45
